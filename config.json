@@ -1,0 +1,8 @@
+{
+  "logFile": "/path/to/mc-server/logs/latest.log",
+  "serverType": "java",
+  "botHost": "shiki.shigma.com",
+  "botPath": "/webhook/channel/your-webhook-id",
+  "key": "your-secret-key",
+  "language": "zh-cn"
+}

@@ -14,23 +14,8 @@ A chat relay between Minecraft server and IRC with no mods.
 
 1. Install [NodeJS](https://nodejs.org/)
 1. Clone this repository
-2. Create `config.json` and write configurations in it
+2. Modify `config.json`
 3. Run `index.js` using `node .`
-
-## Configurations
-
-Here's an example `config.json` for Koishi bot:
-
-```json
-{
-  "logFile": "/path/to/mc-server/logs/latest.log",
-  "serverType": "java",
-  "botHost": "bot.your-host.com",
-  "botPath": "/bot/request/path",
-  "key": "your-secret-key",
-  "language": "en-us"
-}
-```
 
 ### Parameters
 
